@@ -1,7 +1,7 @@
 [project]
 name = "sort-images"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simple script to organize misplaced files in Dropbox automated uploads"
 authors = [
     { name = "Rudolph Almeida", email = "rudolf1.almeida@gmail.com" }
 ]
