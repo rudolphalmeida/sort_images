@@ -10,8 +10,16 @@
 #   universal: false
 
 -e file:.
+markdown-it-py==3.0.0
+    # via rich
+mdurl==0.1.2
+    # via markdown-it-py
 mypy==1.11.1
 mypy-extensions==1.0.0
     # via mypy
+pygments==2.18.0
+    # via rich
+rich==13.7.1
+    # via sort-images
 typing-extensions==4.12.2
     # via mypy
